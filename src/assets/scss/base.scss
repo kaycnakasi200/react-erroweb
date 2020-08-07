@@ -1,0 +1,11 @@
+@import './_variables';
+@import './_navigation';
+
+ html body {
+    
+    font-family: 'Amatic SC', cursive;
+    font-weight: 500;
+    background-color:$background;
+    margin:0;
+    
+}
